@@ -1,0 +1,7 @@
+{
+  "globalstrict": true,
+  "node": true,
+  "undef": true,
+  "indent": 2,
+  "quotmark": "single"
+}
