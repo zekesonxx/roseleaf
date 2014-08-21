@@ -1,0 +1,26 @@
+{
+  "name": "roseleaf",
+  "version": "0.0.1",
+  "description": "I18n engine with a custom file format",
+  "dependencies": {
+    "debug": "~1.0.4",
+    "fast.js": "~0.0.3",
+    "detect-indent": "~0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zekesonxx/roseleaf.git"
+  },
+  "keywords": [
+    "roseleaf",
+    "i18n",
+    "translation"
+  ],
+  "author": "Zeke Sonxx <github.com/zekesonxx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekesonxx/roseleaf/issues"
+  },
+  "homepage": "https://github.com/zekesonxx/roseleaf"
+}
